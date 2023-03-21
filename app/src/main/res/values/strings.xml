@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ramdanKareem</string>
+    <string name="ahln">اهلا رمضان</string>
+    <string name="prayTime">مواعيد الصلاة </string>
+    <string name="history">1 رمضان</string>
+    <string name="fgr">الفجر :</string>
+    <string name="zohr">الظهر :</string>
+    <string name="ASR">العصر :</string>
+    <string name="m8rb">المغرب :</string>
+    <string name="asha">العشاء :</string>
+</resources>
